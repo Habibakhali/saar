@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162053465363",
+    "project_id": "saar-9541f",
+    "storage_bucket": "saar-9541f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162053465363:android:0c91a1b48d0839bfe926e6",
+        "android_client_info": {
+          "package_name": "com.example.elrayan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYFTc76eyYQ2E0G87L99vs-zV3ab3cIp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
